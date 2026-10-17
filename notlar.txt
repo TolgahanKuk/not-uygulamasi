@@ -1,0 +1,10 @@
+ls: Bulunduğun klasördeki mevcut dosya ve alt klasörleri listeler.
+
+cd: Klasörler arasında geçiş yapmanı (içeri girip çıkmayı) sağlar.
+
+pwd: Terminalde o an tam olarak hangi dosya yolunda/dizininde bulunduğunu gösterir.
+
+mkdir: Yeni bir klasör (dizin) oluşturur.
+
+rm: Belirtilen dosya veya klasörleri siler.
+
