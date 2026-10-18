@@ -11,3 +11,6 @@ rm: Belirtilen dosya veya klasörleri siler.
 git status
 git add
 git config --list
+
+
+test satırı
