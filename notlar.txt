@@ -14,3 +14,4 @@ git config --list
 
 
 test satırı
+artık yeter satırı
