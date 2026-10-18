@@ -1,1 +1,2 @@
-not-uygulamasi: Git komutlarını öğrenme projesi.
+
+Geliştirici: Tolgahan Yaşar Kuk (main versiyonu)
