@@ -1,2 +1,5 @@
 
-Geliştirici: Tolgahan Yaşar Kuk (main versiyonu)
+
+Geliştirici: Tolgahan Yaşar Kuk 
+
+

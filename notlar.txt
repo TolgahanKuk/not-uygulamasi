@@ -8,3 +8,6 @@ mkdir: Yeni bir klasör (dizin) oluşturur.
 
 rm: Belirtilen dosya veya klasörleri siler.
 
+git status
+git add
+git config --list
